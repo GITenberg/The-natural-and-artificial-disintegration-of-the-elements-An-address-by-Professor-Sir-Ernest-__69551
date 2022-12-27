@@ -1,0 +1,33 @@
+_repo: The-natural-and-artificial-disintegration-of-the-elements-An-address-by-Professor-Sir-Ernest-__69551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rutherford, Ernest
+    aliases:
+    - Rutherford, E. (Ernest)
+    - Rutherford of Nelson, Ernest Rutherford, Baron
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '53014'
+    url: http://www.gutenberg.org/2009/agents/53014
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Rutherford
+description: ''
+gutenberg_issued: '2022-12-15'
+identifiers:
+  gutenberg: '69551'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001484715
+pgterms:marc905: 20221212065249rutherford
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: 'United States: The Franklin Institute,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The natural and artificial disintegration of the elements: An address by Professor
+  Sir Ernest Rutherford'
+url: http://www.gutenberg.org/ebooks/69551
