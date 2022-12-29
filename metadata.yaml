@@ -1,5 +1,8 @@
 _repo: The-natural-and-artificial-disintegration-of-the-elements-An-address-by-Professor-Sir-Ernest-__69551
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69551-h/images/cover.jpg
 creator:
   author:
     agent_name: Rutherford, Ernest
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53014
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Rutherford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69551#The-natural-and-artificial-disintegration-of-the-elements-An-address-by-Professor-Sir-Ernest-_
 gutenberg_issued: '2022-12-15'
 identifiers:
   gutenberg: '69551'
